@@ -3,7 +3,7 @@
 
 ## :camera: Demo
 
-<h1 align="center"><img src="[https://github.com/FelipeMaximus/Dashboard-Power-BI/issues/1#issue-1974828036"></h1>
+![power bi](https://github.com/FelipeMaximus/Dashboard-Power-BI/assets/53831498/d935f592-72ff-495b-9479-50c70f4e03fc)
 
 
 # Dashboard-Power-BI
