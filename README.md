@@ -24,6 +24,7 @@ Neste projeto foi feita uma análise de uma base de dados referente a uma empres
  
 # Link Dashboard PC e MOBILE
 https://app.powerbi.com/view?r=eyJrIjoiOWFkMjM1MjktYjljYi00NDBlLTkyOTEtYzg1MThmNWViOWZhIiwidCI6Ijk1NjVlMjdmLTE1NjgtNDlmMS1hMGZmLTE3MTFiOGQzZGJjYyJ9
+
 Role as abas para ver todos os projetos anexados.
 
 Arquivo da base para demonstração em anexo.
