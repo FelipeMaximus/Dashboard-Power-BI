@@ -7,7 +7,7 @@
 
 
 # Dashboard-Power-BI
-Este projeto foi criado visando em melhores tomadas de desições comerciaais.
+Este projeto foi criado visando em melhores tomadas de desições comerciais.
 
 Neste projeto foi feita uma análise de uma base de dados referente a uma empresa de vendas nacional, de instiuição de grande porte.
 
